@@ -1,1 +1,1 @@
-document.getElementsByName('h1').style.color = 'red';
+document.getElementsByName('p').style.color = 'red';
