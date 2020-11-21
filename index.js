@@ -1,1 +1,0 @@
-document.getElementsByName('p').style.color = 'red';
