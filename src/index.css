@@ -7,7 +7,46 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.App{
+  max-width: 400px;
+  margin: 30px auto;
+  text-align: center;
+}
+nav{
+  padding: 5px;
+}
+nav ul{
+  padding: 0;
+}
+nav ul li {
+  display: inline-block;
+  margin: 0 30px;
+}
+.book-list{
+  padding: 20px;
+  margin-bottom: 20px;
+}
+.book-list ul{
+  padding: 0;
+  list-style: none;
+}
+.book-list ul li{
+  padding: 10px;
+  margin: 10px auto;
+  border-radius: 10px;
+}
+button{
+  background: #12d5d8;
+  color: white;
+  border: none;
+  height: 30px;
+  width: 150px;
+  margin: 20px;
+  border-radius: 5px;
+}
+button:focus{
+  outline: none;
+}
+button:hover{
+  background: #27b2e4;
 }
