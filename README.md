@@ -1,2 +1,2 @@
-# lrn-material-ui
-Is a dammy repo to practice more about material-UI
+# React Level up
+Is a dammy repo to practice more about React and it's frameworks
